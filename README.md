@@ -47,8 +47,8 @@ This application is designed to:
 
 1.  **Clone the Repository (Example):**
     ```bash
-    git clone https://github.com/yourusername/async-blip-captioner.git
-    cd async-blip-captioner
+    git clone [[https://github.com/yourusername/async-blip-captioner.git](https://github.com/uninterruptedpowersupply/-Fixed-Async-BLIP-Image-Captioner-GUI)](https://github.com/uninterruptedpowersupply/-Fixed-Async-BLIP-Image-Captioner-GUI.git)
+    cd -Fixed-Async-BLIP-Image-Captioner-GUI
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
