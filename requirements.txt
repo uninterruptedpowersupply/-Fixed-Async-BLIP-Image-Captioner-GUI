@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+Pillow
+customtkinter
+sentencepiece
+xformers 
+tqdm     
