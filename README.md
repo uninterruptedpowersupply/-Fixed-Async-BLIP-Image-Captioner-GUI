@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/78483a1b-273c-4bfa-85ad-6faebf2da4b3)
+![Uploading image.png…]()
+
 
 # Async BLIP Image Captioner GUI
 
